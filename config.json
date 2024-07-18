@@ -1,15 +1,23 @@
 {
+    "Auto-Search": {
+        "Enabled": false,
+        "Key": ""
+    },
+
     "Webhook": {
         "Enabled": false,
         "Send_Fails": false,
         "UserID_To_Ping": 0,
         "Url": ""
     },
+
     "Cookies": {
         "Buy_cookie": "",
         "Check_cookie": ""
     },
+
     "Items": [],
+
     "Global_Logs": {
         "Anonymous": false
     }
