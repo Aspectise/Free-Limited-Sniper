@@ -20,5 +20,12 @@
 
     "Global_Logs": {
         "Anonymous": false
+    },
+
+    "Discord": {
+        "Enabled": false,
+        "Token": "",
+        "Prefix": "!",
+        "Owner_id": []
     }
 }
